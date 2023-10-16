@@ -18,5 +18,5 @@ Deseja-se construir um sistema para manter um registro de artistas musicais e se
 ![exercicio1](exercicio1.png)
 
 #### Instância
-![exercicio1Instancia](exercicio1Instancia.png)
+![exercicio1Instancia](exercicio1instancia.png)
 
