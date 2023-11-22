@@ -9,7 +9,7 @@ Deseja-se construir um sistema para manter um registro de artistas musicais e se
 
 *Instância mínima: 2 artistas, 3 álbuns, 4 músicas*
 
-![diagramaArtistas](diagramaArtistas.png)
+![diagramaArtistas](diagramArtistas.png)
 
 ### Solução
 
