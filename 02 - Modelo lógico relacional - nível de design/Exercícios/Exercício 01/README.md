@@ -10,3 +10,7 @@ Deseja-se fazer um sistema para manter dados de cidades (nome, estado, website),
 *Instância mínima: 1 cidade, 2 hotéis e 2 restaurantes, 2 pacotes turísticos.*
 
 ![diagramaTurismo](diagramaTurismo.png)
+
+### Solução
+
+[Clique aqui](exercicio1_solucao.pdf)
