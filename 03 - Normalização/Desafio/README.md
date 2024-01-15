@@ -7,8 +7,7 @@ Com base na (1) visão geral do sistema, (2) especificação textual do esquema 
 Deseja-se fazer um sistema para registrar as consultas de um paciente. O paciente pode realizar várias consultas e uma consulta é registrada para um único paciente. Para cada consulta deve-se registrar a data da consulta, o médico que realizou o atendimento e o diagnóstico do paciente. Um médico pode realizar várias consultas e uma consulta é realizada por um médico.
 
 ### Especificação textual do esquema (não normalizado)
-Consulta-Paciente (<u>codPaciente</u>, nomePac, dtNasc, sexo, fone, endereco,
-<u>codConsulta</u>, data, <u>codMedico</u>, nomeMed, codEsp, nomeEsp, diagnostico)
+Consulta-Paciente (<ins>codPaciente</ins>, nomePac, dtNasc, sexo, fone, endereco, <ins>codConsulta</ins>, data, <ins>codMedico</ins>, nomeMed, codEsp, nomeEsp, diagnostico)
 
 ### Instância do modelo (não normalizado)
 ![diagramaPaciente](diagramaPaciente.png)
