@@ -4,7 +4,7 @@
 
 ### Exercício 1 (Script DB Create)
 
-De acordo com o esquema a seguir, faça um script de criação para o banco de dados "empresa" e suas tabelas.
+De acordo com o esquema a seguir, faça um script de criação para o banco de dados "empresa" e suas tabelas. Também, faça o seed no banco de dados de acordo com as instâncias fornecidas.
 
 tb_cargo (<ins>id</ins>, nome, nivel, salario)  
 tb_departamento (<ins>id</ins>, nome, sigla)  
@@ -13,7 +13,7 @@ tb_funcionario (<ins>id</ins>, nome, data_adm, sexo, cod_cargo, cod_depto)
     cod_dpto referencia tb_departamento  
 
 ### Instância
-![instancia](instancia.png)
+![instancia](instanciaexercicio.png)
 
 ### Solução
 
