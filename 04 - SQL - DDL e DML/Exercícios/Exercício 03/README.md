@@ -4,7 +4,7 @@
 
 Para cada exercício, a partir da especificação textual do esquema e da instância de dados, elabore o script SQL (DDL e DML) para criação das tabelas e para seed no banco de dados.
 
-### Exercício 2 (Evento)
+### Exercício 3 (Rede-social)
 
 tb_usuario (<ins>id</ins>, nome, email, nascimento, website, gereno, telefone, foto_de_perfil_id)  
     foto_de_perfil_id referencia tb_foto  
