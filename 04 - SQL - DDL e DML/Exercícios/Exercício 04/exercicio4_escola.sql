@@ -61,8 +61,8 @@ INSERT INTO tb_aluno (cpf, nome, nascimento) VALUES ('353847901-22', 'Maria Clar
 INSERT INTO tb_matricula(turma_id, aluno_id, data_matricula, prestacoes) VALUES (1, '736376983-19', '05-09-2017', 6);
 INSERT INTO tb_matricula(turma_id, aluno_id, data_matricula, prestacoes) VALUES (1, '353847901-22', '06-09-2017', 12);
 
-INSERT INTO tb_avaliacao(nota, data_avaliacao, turma_id) VALUES (1, 40.0, '2017-10-20', 1);
-INSERT INTO tb_avaliacao(nota, data_avaliacao, turma_id) VALUES (1, 60.0, '2017-11-30', 1);
+INSERT INTO tb_avaliacao(nota, data_avaliacao, turma_id) VALUES (40.0, '2017-10-20', 1);
+INSERT INTO tb_avaliacao(nota, data_avaliacao, turma_id) VALUES (60.0, '2017-11-30', 1);
 
 INSERT INTO tb_resultado(aluno_id, avaliacao_id, nota_obtida) VALUES ('736376983-19', 1, 35.0);
 INSERT INTO tb_resultado(aluno_id, avaliacao_id, nota_obtida) VALUES ('353847901-22', 1, 36.5);
